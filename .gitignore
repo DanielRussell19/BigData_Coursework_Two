@@ -1,7 +1,4 @@
-/winequality
-
-/winequality-names
-
-/winequality-red
-
-/winequality-white
+winequality-names.txt
+winequality-names.txt.bak
+winequality-red.csv
+winequality-white.csv
