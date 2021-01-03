@@ -2,3 +2,7 @@ winequality-names.txt
 winequality-names.txt.bak
 winequality-red.csv
 winequality-white.csv
+student.txt
+student-por.csv
+student-merge.R
+student-mat.csv
